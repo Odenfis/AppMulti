@@ -18,8 +18,6 @@ git config --global user.email "Tu correo"
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
 
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
 * [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
@@ -31,24 +29,14 @@ git config --global user.email "Tu correo"
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 
-# Temas que estoy usando:
+# Temas usados en sesiones:
 
 * [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
 * [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-# Configuración del Bracket Pair Colorizer 2
-```
-"bracket-pair-colorizer-2.colors": [
-    "#fafafa",
-    "#9F51B6",
-    "#F7C244",
-    "#F07850",
-    "#9CDD29",
-    "#0098FA"
-],
-```
 
-# Opcionales
+# Extensiones adicionales no obligatorias
+
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist)
